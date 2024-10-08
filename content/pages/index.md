@@ -49,7 +49,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG_1108.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''

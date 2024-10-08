@@ -52,7 +52,7 @@
             {
                 "type": "Link",
                 "label": "HOME",
-                "url": "/info",
+                "url": "/home",
                 "altText": ""
             },
             {
